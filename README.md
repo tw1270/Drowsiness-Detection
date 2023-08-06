@@ -1,5 +1,5 @@
 # Drowsiness Detection Using a Convolutional Neural Network
-** Tenzin Wangdu** 
+Tenzin Wangdu
 
 April 12, 2021
 
