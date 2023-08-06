@@ -1,6 +1,5 @@
 # Drowsiness Detection Using a Convolutional Neural Network
-**Jennifer Brown, Andrea Pascale,   
-Dustin Stewart, Tenzin Wangdu** 
+** Tenzin Wangdu** 
 
 April 12, 2021
 
